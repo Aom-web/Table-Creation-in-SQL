@@ -1,4 +1,4 @@
-# Table-Creation-in-SQL
+## SQL Table Creation
 ### Step 1: Image of table to be created
 <img width="285" height="164" alt="1" src="https://github.com/user-attachments/assets/355a9cc6-9159-4c97-a9fe-cb92efb064d9" />
 
