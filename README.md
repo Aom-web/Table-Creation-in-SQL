@@ -4,6 +4,14 @@
 
 ### Step 2: Assigned column name and type of entries
 
+```SQL
+CREATE TABLE "Sales" (
+	"id"	INTEGER,
+	"Name"	TEXT,
+	"Amount"	INTEGER
+);
+```
+
 <img width="777" height="595" alt="2" src="https://github.com/user-attachments/assets/8df6b719-2adf-41c8-9da1-5fbd7f8da49d" />
 
 ### Step 3: Table formation in SQL
