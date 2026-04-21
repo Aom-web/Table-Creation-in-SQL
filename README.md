@@ -12,15 +12,20 @@ CREATE TABLE "Sales" (
 );
 ```
 
-<img width="777" height="595" alt="2" src="https://github.com/user-attachments/assets/8df6b719-2adf-41c8-9da1-5fbd7f8da49d" />
-
 ### Step 3: Table formation in SQL
 
 <img width="224" height="119" alt="3" src="https://github.com/user-attachments/assets/3759ef91-5dcd-4613-958c-a1c74355aa5d" />
 
 ### Step 4: Inserting values into the table using SQL Query
 
-<img width="266" height="170" alt="4" src="https://github.com/user-attachments/assets/8cad3016-43ee-4d45-911e-cc2ee4ef8f34" />
+```SQL
+INSERT INTO Sales
+(id, Name, Amount)
+VALUES
+(1, 'Ada', 500),
+(2, 'Tunde', 700),
+(2, 'Emeka', 300);
+```
 
 ### Step 5: Final look of the table in SQL
 
